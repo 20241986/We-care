@@ -5,5 +5,6 @@
 <h2>Tecnologias utilizadas:</h2>
 <br>
 <br>
-HTML-
+HTML5-![html5-logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 CSS-
